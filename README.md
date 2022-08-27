@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>🇰🇪🏅SKETCHY BOT OFFICIAL🏅🇰🇪</h1>
+  <h1>🇰🇪🏅BRAINY BOT OFFICIAL🏅🇰🇪</h1>
 </div>
 <div align="center">
   <img src="https://telegra.ph/file/21c73425e6700f5735ff6.png" />
